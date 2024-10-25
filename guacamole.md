@@ -1,7 +1,7 @@
-#GUACAMOLE
+#GUACAMOLE:)
 
 ##Ingredienzz
-avocado, lime, tomatoe
+avocado, lime, tomatoe, pepper, salt, 
  
 ##Instructions
-miaumiaum ia
+mix everything and eat
