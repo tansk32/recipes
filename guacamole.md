@@ -4,4 +4,7 @@
 avocado, lime, tomatoe
 pepper, salt, coriander 
 ##Instructions
-miaumiaum ia
+
+put one avocado into a bowl.
+mix everything and eat
+
